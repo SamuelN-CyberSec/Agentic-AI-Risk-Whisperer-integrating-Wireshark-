@@ -33,4 +33,6 @@ o	Agentic AI Risk Whisperer
 **Demo:**
 o	Short demo video walkthrough https://youtu.be/7Z6K0GzMPGk
 
+#AgenticAI #EnterpriseAI #RiskManagement #CyberRisk #RiskAnalytics #BuildInPublic #TechInnovation
+
 
