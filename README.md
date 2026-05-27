@@ -10,7 +10,7 @@ o Tools like Wireshark provide deep visibility, but not decision intelligence.
 
 
 **Solution**
-Agent AI Risk whisperer :
+Agent AI Risk whisperer:
 o	Understands packet-level behavior
 o	Detects anomalies and attack patterns
 o	Generates human-readable security insights
